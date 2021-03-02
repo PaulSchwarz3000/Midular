@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Midular-v2-Proto-STM32F407VET6-rescue)(type Legacy)(uri "${KIPRJMOD}/Midular v2 Proto STM32F407VET6-rescue.lib")(options "")(descr ""))
+)
