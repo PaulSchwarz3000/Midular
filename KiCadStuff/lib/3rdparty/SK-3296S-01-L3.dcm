@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SK-3296S-01-L3
+D SPDT 50mA @ 12VDC 12V On-On SMD Toggle Switches
+K
+F https://datasheet.lcsc.com/szlcsc/XKB-SK-3296S-01-L3_C319019.pdf
+$ENDCMP
+#
+#End Doc Library

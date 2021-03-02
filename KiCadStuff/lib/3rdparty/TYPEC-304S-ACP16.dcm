@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TYPEC-304S-ACP16
+D USB Connectors SMD, 8.94  7.3  3.21mm
+K
+F https://datasheet.lcsc.com/szlcsc/2008152133_XUNPU-TYPEC-304S-ACP16_C720630.pdf
+$ENDCMP
+#
+#End Doc Library

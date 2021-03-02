@@ -1,0 +1,30 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# MotorizedSlidePotTouch
+#
+DEF MotorizedSlidePotTouch MF 0 40 Y Y 1 F N
+F0 "MF" -400 150 50 H V C CNN
+F1 "MotorizedSlidePotTouch" 0 50 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+C 0 -410 128 1 1 10 N
+S -360 -300 -440 -500 1 1 10 N
+P 2 1 1 0 -300 -400 -340 -400 N
+P 2 1 1 0 0 -650 0 -630 N
+P 2 1 1 0 0 -538 0 -554 N
+P 2 1 1 0 0 -282 0 -268 N
+P 2 1 1 0 0 -270 0 -250 N
+P 4 1 1 0 -355 -400 -310 -380 -310 -420 -355 -400 F
+P 5 1 1 0 -50 -480 -50 -330 0 -430 50 -330 50 -480 N
+X 1 1 -400 -250 50 D 50 50 1 1 P
+X 2 2 -250 -400 50 L 50 50 1 1 P
+X 3 3 -400 -550 50 U 50 50 1 1 P
+X + A 0 -150 100 D 50 50 1 1 B
+X - B 0 -650 100 U 50 50 1 1 B
+X Touch T 350 -150 100 D 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+#End Library
