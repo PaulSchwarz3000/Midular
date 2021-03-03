@@ -1,4 +1,4 @@
-update=3/2/2021 10:40:54 AM
+update=3/3/2021 9:23:20 AM
 version=1
 last_client=kicad
 [general]
@@ -250,7 +250,7 @@ dPairViaGap=0.25
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
-PlotDirectoryName=
+PlotDirectoryName=plot/
 SubpartIdSeparator=0
 SubpartFirstId=65
 NetFmtName=JLCPCB BOM

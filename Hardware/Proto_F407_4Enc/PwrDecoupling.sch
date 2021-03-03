@@ -518,7 +518,7 @@ Wire Wire Line
 Text Notes 6350 4050 0    50   ~ 0
 Microcontroller decoupling
 Text Notes 6400 4150 0    50   ~ 0
-1 Pair each close to their pins, 2u2 and 10n caps optional
+1 Pair each close to their resp. pins, 2u2 and 10n caps optional
 Text Notes 7200 1900 0    50   ~ 0
 VCAP
 Text Notes 7250 2000 0    50   ~ 0

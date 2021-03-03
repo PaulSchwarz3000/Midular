@@ -2358,12 +2358,12 @@ U 1 1 6062FF54
 P 6000 5600
 F 0 "J21" H 6050 6407 50  0000 C CNN
 F 1 "Conn_02x12_Odd_Even" H 6050 6316 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_2x12_P2.54mm_Vertical" H 6050 6225 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_2x12_P2.54mm_Vertical" V 6650 5650 50  0001 C CNN
 F 3 "~" H 6000 5600 50  0001 C CNN
 	1    6000 5600
 	1    0    0    -1  
 $EndComp
-Text Notes 5750 4800 0    50   ~ 0
+Text Notes 5650 4750 0    50   ~ 0
 Prototyping Connector
 NoConn ~ 5800 5100
 NoConn ~ 5800 5200
